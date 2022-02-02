@@ -1,0 +1,17 @@
+body{
+    background-color:#d2b48c;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_peluches{
+    color:cadetblue;
+}
+#camera{
+    border:2px;
+    border-style:solid;
+    border-color:bisque;
+    width:350px;
+    height:350px;
+}
